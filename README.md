@@ -10,9 +10,9 @@ Files have been reuploaded here for clarity as there were revisions that did not
 
 The intention of this shield is for every component to be autoclavable and reusable. The typical die cut PC shields, although by material definition can withstand autoclave temperatures, are susceptible to damage during assembly, wear, and disassembly. By reducing the number of folds in the fragile clear sheet, the design is not as prone to tearing during these steps.
 
-![Autooclave Shield Disassembled](\Autoclave Shield Rev1\large premade clear.jpg)
+[a relative link](/Autoclave Shield Rev1\large premade clear.jpg)
 
-![Autoclave Shield Assembled](\Autoclave Shield Rev1\large.jpg)
+[a relative link](\Autoclave Shield Rev1\large.jpg)
 
 ### Materials
 
