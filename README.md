@@ -10,8 +10,8 @@ Files have been reuploaded here for clarity as there were revisions that did not
 
 The intention of this shield is for every component to be autoclavable and reusable. The typical die cut PC shields, although by material definition can withstand autoclave temperatures, are susceptible to damage during assembly, wear, and disassembly. By reducing the number of folds in the fragile clear sheet, the design is not as prone to tearing during these steps.
 
-Original Designs:
-![Autoclave Reusable Shield](https://github.com/nikaiser/SARS-CoV-2/blob/master/Autoclave%20Shield%20Rev2/large%20premade%20clear.jpg))
+### Original Designs:
+![Autoclave Reusable Shield](https://github.com/nikaiser/SARS-CoV-2/blob/master/Autoclave%20Shield%20Rev2/large%20premade%20clear.jpg)
 
 ![Autoclave Reusable Shield](https://github.com/nikaiser/SARS-CoV-2/blob/master/Autoclave%20Shield%20Rev2/large.jpg)
 
