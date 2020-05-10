@@ -11,16 +11,16 @@ Files have been reuploaded here for clarity as there were revisions that did not
 The intention of this shield is for every component to be autoclavable and reusable. The typical die cut PC shields, although by material definition can withstand autoclave temperatures, are susceptible to damage during assembly, wear, and disassembly. By reducing the number of folds in the fragile clear sheet, the design is not as prone to tearing during these steps.
 
 ### Original Designs:
-![Autoclave Reusable Shield](https://github.com/nikaiser/SARS-CoV-2/blob/master/Autoclave%20Shield%20Rev2/large%20premade%20clear.jpg)
+![Autoclave Reusable Shield](https://github.com/nikaiser/SARS-CoV-2/blob/master/Autoclave%20Shield%20Rev3/ppe_production-3.jpg)
 
 ![Autoclave Reusable Shield](https://github.com/nikaiser/SARS-CoV-2/blob/master/Autoclave%20Shield%20Rev2/large.jpg)
 
 ### Materials
 
--Polypropylene (PP) Visor
+-Polypropylene (PP) Visor (suggest natural or Black)
 -Polycarbonate (PC) Shield
 -VMQ (silicone) Edging
 -037 VMQ (silicone) O-ring, alt: hair tie, synthetic rubber band
 
 
-Originally designed to be laser cut on a 150W CO2 Laser Cutter from [Black Cat Labs](https://www.blackcatlabs.xyz/), the Polypropylene consistently left large melt pools that were considered unacceptable by the end user. The rev2 designed has been optimized and nested for a CNC router using a 1/8" O Flute End Mill.
+Originally designed to be laser cut on a 90W CO2 Laser Cutter from [Black Cat Labs](https://www.blackcatlabs.xyz/), the Polypropylene consistently left large melt pools that were considered unacceptable by the end user. The rev2 designed has been optimized and nested for a CNC router using a 1/8" O Flute End Mill.
